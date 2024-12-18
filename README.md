@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A Frontend Developer and Designer</h3>
+<h3 align="center">A Full Stack Developer and Designer</h3>
 <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBrYW4wMGZyOGYzeGVlb2NsZjNscDFhNGFpemt2Z3hiM2tna2VhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 I really enjoy learning languages and frameworks like:- React and React Native, as well as work in WordPress.
 I also enjoy UI, UX and Design in general.
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 Reach me by email **sagarbhardwaj2121@gmail.com**
 
